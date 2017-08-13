@@ -291,13 +291,6 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-k",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#3a3d2a"
-          },
-          "text": "<ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">JAMK University of Applied Sciences,&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Business Information Technology 1.9.2014 -</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Jyväskylä Institute of Adult Education, Further Qualification for Security Guards, 27.9.2010 - 27.5.2011</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Military service, 2004 - 2005</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Laukaa sixth form, Matriculation Examination, 2001 - 2004<br></span></li></ul>",
           "_styles": {
             "P": {
               "color": "#cccccc"
@@ -305,7 +298,14 @@
             "UL": {
               "color": "#cccccc"
             }
-          }
+          },
+          "_anchor": "content1-k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#3a3d2a"
+          },
+          "text": "<ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">JAMK University of Applied Sciences,&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Business Information Technology 1.9.2014 -</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Jyväskylä Institute of Adult Education, Further Qualification for Security Guards, 27.9.2010 - 27.5.2011</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Military service, 2004 - 2005</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Laukaa sixth form, Matriculation Examination, 2001 - 2004<br></span></li></ul>"
         },
         {
           "_tags": [
